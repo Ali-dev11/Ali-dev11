@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently as a Freelancer.
+ 🔭 I’m currently working as a Freelancer.
  
  🌱 I’m currently learning **Flask, React Native**
  
