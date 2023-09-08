@@ -32,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,ruby,rails,mongodb,gcp,aws,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=react,next,bootstrap,mui,mysql,django,html,css,tailwindcss,redis,postgresql,vscode,git" />
 </div>
 
 <br/>
@@ -43,6 +43,9 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Ali-dev11&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-dev11&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="readme stats"/>
+  <br/>
+<img height="155em" alt="Ali's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ali-dev11?cardType=github&theme=radical" />
 </div>
 
 <br/><br/>
