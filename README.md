@@ -4,17 +4,17 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!;I'm+Muhammad+Ali!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A Full Stack Developer!</h3>
+<h3 align="center">Full Stack Developer!</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently as a Freelancer.
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 🌱 I’m currently learning **Flask, React Native**
+ 
+ 🌱 Learning Somthing New Everdyday!!
  
   </div>
 
