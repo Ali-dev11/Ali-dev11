@@ -12,7 +12,7 @@
  
  🔭 I’m currently working as a Freelancer.
  
- 🌱 I’m currently learning **Flask, React Native**
+ 🌱 I’m currently learning **Flask and React Native**
  
  🌱 Learning Somthing New Everdyday!!
  
