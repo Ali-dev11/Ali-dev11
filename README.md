@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Flask and React Native**
  
- 🌱 Learning Somthing New Everdyday!!
+ 🌱 Learning Somthing New Everdyday!
  
   </div>
 
