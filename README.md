@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a Full Stack Engineer.
+ 🔭 I’m currently working as a Full Stack Developer.
  
  🌱 Learning Somthing New Everdyday!
  
