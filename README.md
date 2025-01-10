@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ali-dev11.Ali-dev11" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!;I'm+Muhammad+Ali!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!;I'm+Ali!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">Full Stack Engineer!</h3>
